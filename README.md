@@ -21,23 +21,42 @@ Then, over some time the mixer will use the house account to dole out your bitco
 # Here are some logs from the code:
 
 Mixer - Amount 12.5 transfered from Sender John to HouseAccount
+
 Mixer - Mixing fee charged 0.001 to recipient Jacob
+
 Mixer - Amount 9.874 transfered from HouseAccount to Recipient Jacob
+
 Mixer - Mixing fee charged 0.0003 to recipient Jacob
+
 Mixer - Amount 2.6247 transfered from HouseAccount to Recipient Jacob
 
 
 
+
+
+
 Mixer - Amount 1 transfered from Sender John to HouseAccount
+
 Mixer - Mixing fee charged 0 to recipient Jacob
+
 Mixer - Amount 0.17 transfered from HouseAccount to Recipient Jacob
+
 Mixer - Mixing fee charged 0.0001 to recipient Jacob
+
 Mixer - Amount 0.8299 transfered from HouseAccount to Recipient Jacob
 
 
 
+
+
+
 Mixer - Amount 0.01 transfered from Sender John to HouseAccount
+
 Mixer - Mixing fee charged 0 to recipient Julie
+
 Mixer - Amount 0.0086 transfered from HouseAccount to Recipient Julie
+
 Mixer - Mixing fee charged 0 to recipient Julie
+
 Mixer - Amount 0.0014 transfered from HouseAccount to Recipient Julie
+
