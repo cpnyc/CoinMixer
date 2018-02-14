@@ -60,3 +60,4 @@ Mixer - Mixing fee charged 0 to recipient Julie
 
 Mixer - Amount 0.0014 transfered from HouseAccount to Recipient Julie
 
+# CoinMixer
